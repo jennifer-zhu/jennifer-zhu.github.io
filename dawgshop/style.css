@@ -1,0 +1,14 @@
+body {
+    font-family: "Courier";
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: !important;
+    text-decoration: underline;
+}
+
+button {
+    font-family: "Courier";
+}
